@@ -1,19 +1,15 @@
-export function One() {
-  const taskOne = 'I prefer const when I can.';
-  return taskOne;
+export function taskFirst() {
+  const task = 'I prefer const when I can.';
+  return task;
 }
 
-export function Two() {
-  let taskTwo = 'But sometimes';
-  return taskTwo;
+export function getLast() {
+  return ' is okay';
 }
 
-export function Three() {
-  let taskThree = 'let is okay';
-  return taskThree;
-}
+export function taskNext() {
+  let combination = 'But sometimes let';
+  combination += getLast();
 
-export function combination() {
-  const combinedText =  Two + Three;
-  return combinedText;
+  return combination;
 }
