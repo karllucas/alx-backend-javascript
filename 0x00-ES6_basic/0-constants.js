@@ -1,22 +1,24 @@
-# Consists of two functions: taskFirst and taskNext
-# The first holds const variable and second has let a let variable
-
-export function taskOne() {
+export function One() {
   const taskOne = 'I prefer const';
   return taskOne;
 }
 
-export function taskTwo() {
+export function Two() {
   const taskTwo = 'when I can.';
   return taskTwo;
 }
 
-export function taskThree() {
+export function Three() {
   let taskThree = 'But sometimes';
   return taskThree;
 }
 
-export function taskThree() {
+export function Four() {
   let taskThree = 'let is okay';
-  reurn taskThree;
+  return taskThree;
+}
+
+export function combination() {
+  const combinedText = One + Two + Three + Four;
+  return combinedText;
 }
