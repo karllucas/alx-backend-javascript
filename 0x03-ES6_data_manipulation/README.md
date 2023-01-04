@@ -1,7 +1,7 @@
 0x03. ES6 data manipulation
 ===========================
 
-This repo is included in Specializations - Web Stack programming ― Back-end Course of Holberton School. We will cover the `E6 data manipulation.`
+This repo is includes one of the EcmaScript6 courses offred in the ALX Software Engineering Programming. It covers `ES6 data manipulation.`
 
 ![Logo](https://www.howtogeek.com/wp-content/uploads/2021/05/laptop-with-terminal-big.png?height=200p&trim=2,2,2,50)
 
@@ -173,7 +173,7 @@ The array contains the following students in order:
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File: [0-get_list_students.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/0-get_list_students.js)
+*   File: [0-get_list_students.js](https://github.com/karllucas/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/0-get_list_students.js)
 
 ### 1\. More mapping
 
@@ -203,7 +203,7 @@ You must use the `map` function on the array.
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File: [1-get_list_student_ids.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/1-get_list_student_ids.js)
+*   File: [1-get_list_student_ids.js](https://github.com/karllucas/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/1-get_list_student_ids.js)
 
 ### 2\. Filter
 
@@ -234,7 +234,7 @@ You must use the `filter` function on the array.
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File: [2-get_students_by_loc.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/2-get_students_by_loc.js)
+*   File: [2-get_students_by_loc.js](https://github.com/karllucas/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/2-get_students_by_loc.js)
 
 ### 3\. Reduce
 
@@ -263,7 +263,7 @@ You must use the `reduce` function on the array.
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File: [3-get_ids_sum.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/3-get_ids_sum.js)
+*   File: [3-get_ids_sum.js](https://github.com/karllucas/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/3-get_ids_sum.js)
 
 ### 4\. Combine
 
@@ -318,7 +318,7 @@ You must use `filter` and `map` combined.
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File: [4-update_grade_by_city.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/4-update_grade_by_city.js)
+*   File: [4-update_grade_by_city.js](https://github.com/karllucas/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/4-update_grade_by_city.js)
 
 ### 5\. Typed Arrays
 
@@ -350,7 +350,7 @@ If adding the value is not possible the error `Position outside range` should be
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File: [5-typed_arrays.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/5-typed_arrays.js)
+*   File: [5-typed_arrays.js](https://github.com/karllucas/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/5-typed_arrays.js)
 
 ### 6\. Set data structure
 
@@ -373,7 +373,7 @@ It accepts an argument (Array, of any kind of element).
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File: [6-set.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/6-set.js)
+*   File: [6-set.js](https://github.com/karllucas/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/6-set.js)
 
 ### 7\. More set data structure
 
@@ -400,7 +400,7 @@ It accepts two arguments: a `set` (Set) and an `array` (Array).
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File:[7-has_array_values.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/7-has_array_values.js)
+*   File:[7-has_array_values.js](https://github.com/karllucas/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/7-has_array_values.js)
 
 ### 8\. Clean set
 
@@ -436,7 +436,7 @@ When a value starts with `startString` you only append the rest of the string. T
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File: [8-clean_set.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/8-clean_set.js)
+*   File: [8-clean_set.js](https://github.com/karllucas/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/8-clean_set.js)
 
 ### 9\. Map data structure
 
@@ -472,7 +472,7 @@ Result:
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File: [9-groceries_list.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/9-groceries_list.js)
+*   File: [9-groceries_list.js](https://github.com/karllucas/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/9-groceries_list.js)
 
 ### 10\. More map data structure
 
@@ -515,7 +515,7 @@ For each entry of the map where the quantity is 1, update the quantity to 100. I
 
 *   GitHub repository: `holbertonschool-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File: [10-update_uniq_items.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/10-update_uniq_items.js)
+*   File: [10-update_uniq_items.js](https://github.com/karllucas/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/10-update_uniq_items.js)
 
 ### 11\. Weak link data structure
 
@@ -562,25 +562,17 @@ When the number of queries is >= 5 throw an error with the message `Endpoint loa
 
 **Repo:**
 
-*   GitHub repository: `holbertonschool-backend-javascript`
+*   GitHub repository: `alx-backend-javascript`
 *   Directory: `0x03-ES6_data_manipulation`
-*   File: [100-weak.js](https://github.com/Imanolasolo/holbertonschool-backend-javascript/blob/master/0x03-ES6_data_manipulation/100-weak.js)
+*   File: [100-weak.js](https://github.com/karllucas/alx-backend-javascript/blob/master/0x03-ES6_data_manipulation/100-weak.js)
 
 ## Credits.
 
-## Author(s):blue_book:
-
-Work is owned and maintained by:
-* Imanol Asolo <[3848](mailto:3848@holbertonschool.com)> [![M](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/25px-Octicons-mark-github.svg.png)](https://github.com/Imanolasolo) [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/25px-Twitter_Bird.svg.png)](https://twitter.com/jjusturi) [![M](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/25px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/imanol-asolo-5ba9b42a/)
-
-
-## Acknowledgments :mega: 
-
-### **`Holberton School`** (*providing guidance*)
-This program was written as part of the curriculum for Holberton School.
-Holberton School is a campus-based full-stack software engineering program
-that prepares students for careers in the tech industry using project-based
-peer learning. For more information, visit [this link](https://www.holbertonschool.com/).
-<p align="center">
-	<img src="https://assets.website-files.com/6105315644a26f77912a1ada/610540e8b4cd6969794fe673_Holberton_School_logo-04-04.svg" alt="This is a secret;)">
+<p dir="auto">
+</p><h2 dir="auto"><a id="user-content-author-full-stack-developer" class="anchor" aria-hidden="true" href="#author-full-stack-developer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a id="user-content-author-african-codernorman" href="#author-african-codernorman"></a>Author (Full Stack Developer):</h2>
+<h2 dir="auto"><a id="user-content-acknowledgements-" class="anchor" aria-hidden="true" href="#acknowledgements-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a id="user-content-acknowledgements-pray" href="#acknowledgements-pray"></a>Acknowledgements <g-emoji class="g-emoji" alias="pray" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64f.png">🙏</g-emoji></h2>
+<p dir="auto">All work contained in this project is progressive project covered  as part of the curriculum offered by the ALX-Holberton Software Engineering Programme. Alx is an online Software Engineering Programme (digital-like bootcamp) that thoroughly equips one with the needed Full Stack skills needed the tech industry. It consists of theoretical and practical learning concepts all put rogether using the <a href="https://fs.blog/feynman-learning-technique/" rel="nofollow">Feyman Learning Technique</a>. It entails a mixture of solo research, high level and low level language programming, and peer learning. For more information, visit
+<a href="https://www.alxafrica.com/" rel="nofollow">this link</a>.</p>
+<p align="center" dir="auto">
+  <a href="https://camo.githubusercontent.com/349d47b359c21448b0415bfdb1ec6ae1db87b60a55243b187d514d0071f930ad/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f7648314854486871374249457568494475456332577263324c675a6967734a455744523536414c754446525a76392d6a714367484e4875424849422d664c727262777037744a3862377165494a6f3056744855683d7330" rel="nofollow"><img src="https://camo.githubusercontent.com/349d47b359c21448b0415bfdb1ec6ae1db87b60a55243b187d514d0071f930ad/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f7648314854486871374249457568494475456332577263324c675a6967734a455744523536414c754446525a76392d6a714367484e4875424849422d664c727262777037744a3862377165494a6f3056744855683d7330" alt="ALX logo" style="max-width: 100%;"></a>
 </p>
